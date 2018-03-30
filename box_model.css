@@ -1,0 +1,40 @@
+div {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  border: 5px solid black;
+
+}
+
+#first-div {
+  background-color: #39cccc;
+
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+#pdiv {
+  margin-bottom: 100px;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+.image-1 {
+  height: 600px;
+  width: 200px;
+  background-color: #AAC4C4;
+}
+
+.image-2 {
+  /* overflow: auto; */
+  display: table;
+}
+
+.cat {
+  width: 100%;
+}
